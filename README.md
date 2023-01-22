@@ -6,10 +6,9 @@ It is also able to display things like the total event count, and the nearest ev
 I wrote this software in Swift to demonstrate my ability to not only code in the language, but effectively use systems like object oriented
 programming. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/Zf-I19D2yPY)
 
 # Development Environment
-
 ## Tools
 * VS Code
 * Git
